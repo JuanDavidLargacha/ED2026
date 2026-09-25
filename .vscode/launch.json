@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/Yepes/Documents/ED2026",
-      "program": "c:/Users/Yepes/Documents/ED2026/build/Debug/outDebug",
+      "cwd": "c:/Users/Yepes/Documents/ED2026/Corte1/Taller1",
+      "program": "c:/Users/Yepes/Documents/ED2026/Corte1/Taller1/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
